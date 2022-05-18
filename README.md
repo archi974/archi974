@@ -96,5 +96,5 @@
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=archi974&show_icons=true&theme=radical) 
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archi974&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 </div>
