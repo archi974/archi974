@@ -91,7 +91,7 @@
       <img src="https://img.shields.io/badge/Tailwind Css-0B2239?style=for-the-badge&logo=tailwindcss&logoColor=37BCF8" alt="Tailwind" />
     </a>&nbsp;
     <a href="https://pyscript.net/">
-      <img src="https://img.shields.io/badge/Pyscript-0B2239?style=for-the-badge&logo=pyscript&logoColor=37BCF8" alt="Pyscript" />
+      <img src="https://img.shields.io/badge/Pyscript-2D2E34?style=for-the-badge&logo=pyscript&logoColor=FDA701" alt="Pyscript" />
     </a>
   </div>
   <h2>My Stats</h2>
