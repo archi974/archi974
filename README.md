@@ -89,6 +89,9 @@
     </a>&nbsp;
     <a href="https://tailwindcss.com/">
       <img src="https://img.shields.io/badge/Tailwind Css-0B2239?style=for-the-badge&logo=tailwindcss&logoColor=37BCF8" alt="" />
+    </a>&nbsp;
+    <a href="https://pyscript.net/">
+      <img src="https://img.shields.io/badge/Pyscript Css-0B2239?style=for-the-badge&logo=pyscript&logoColor=37BCF8" alt="" />
     </a>
   </div>
   <h2>My Stats</h2>
