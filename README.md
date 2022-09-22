@@ -82,7 +82,7 @@
     
   </div>
   <div>
-    <h2>What I start</h2>
+    <h2>What I would like to start</h2>
     <a href="https://docs.python.org/fr/3/">
       <img src="https://img.shields.io/badge/Python-275378?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
     </a>&nbsp;
