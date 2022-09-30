@@ -1,6 +1,12 @@
 <div align="center">
   <h1><img src="" alt="">Welcome to my Github</h1>
   <div>
+    <a href="https://archi974.github.io/Portfolio/">My Portfolio</a>
+    <p>In progress for the moment 😅</p>
+    <p>😁 I'm reworking the design of the contact page and the responsive for Project and Contact pages.😁</p>
+  </div>
+  
+  <div>
     <h2>Most used language</h2>
     <a href="https://devdocs.io/html/">
       <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
