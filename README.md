@@ -14,17 +14,14 @@
     <a href="https://devdocs.io/css/">
       <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     </a>&nbsp;
+    <a href="https://sass-lang.com/">
+      <img src="https://img.shields.io/badge/Sass-CE649A?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+    </a>&nbsp;
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </a>&nbsp;
     <a href="https://fr.reactjs.org/">
       <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs" />
-    </a>&nbsp;
-    <a href="https://sass-lang.com/">
-      <img src="https://img.shields.io/badge/Sass-CE649A?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-    </a>&nbsp;
-    <a href="https://api.jquery.com/">
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
     </a>&nbsp;
     <a href="https://www.php.net/">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -47,6 +44,9 @@
     </a>&nbsp;
     <a href="https://nodejs.org/en/">
       <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs" />
+    </a>&nbsp;
+    <a href="https://api.jquery.com/">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
     </a>&nbsp;
     <a href="https://vuejs.org/">
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJs" />
