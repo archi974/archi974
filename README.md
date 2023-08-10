@@ -1,7 +1,7 @@
 <div align="center">
   <h1><img src="" alt="">Welcome to my Github</h1>
   <div>
-    [My Portfolio](https://portfolio-vincent-kbidi.vercel.app/)
+    <a href="https://portfolio-vincent-kbidi.vercel.app/">My Portfolio</a>
     <p>In progress for the moment 😅</p>
     <p>😁 I'm reworking the design of the contact page and the responsive for Project and Contact pages.😁</p>
   </div>
