@@ -32,10 +32,6 @@
     <a href="https://github.com/archi974?tab=repositories">
       <img src="https://img.shields.io/badge/Github-222?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
     </a>
-    
-  </div>
-  <div>
-    <h2>My notions</h2>
     <a href="https://www.mongodb.com/docs/">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </a>&nbsp;
@@ -45,6 +41,10 @@
     <a href="https://nodejs.org/en/">
       <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs" />
     </a>&nbsp;
+    
+  </div>
+  <div>
+    <h2>My notions</h2>
     <a href="https://api.jquery.com/">
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
     </a>&nbsp;
@@ -70,17 +70,20 @@
   </div>
   <div>
     <h2>Project tools</h2>
-    <a href="https://trello.com/archi_974">
-      <img src="https://img.shields.io/badge/Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+    <a href="https://github.com/archi974">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>&nbsp;
-    <a href="https://www.notion.so/">
-      <img src="https://img.shields.io/badge/Notion-FFF?style=for-the-badge&logo=notion&logoColor=000" alt="Notion" />
+    <a href="https://www.figma.com/">
+      <img src="https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma&logoColor=red" alt="Figma" />
     </a>&nbsp;
     <a href="https://www.postman.com/">
       <img src="https://img.shields.io/badge/Postman-F76836?style=for-the-badge&logo=postman&logoColor=FFF" alt="Postman" />
     </a>&nbsp;
-    <a href="https://www.figma.com/">
-      <img src="https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma&logoColor=red" alt="Figma" />
+    <a href="https://trello.com/archi_974">
+      <img src="https://img.shields.io/badge/Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+    </a>&nbsp;
+    <a href="https://code.visualstudio.com/">
+      <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=2D80B8" alt="Visual Studio Code" />
     </a>&nbsp;
     <a href="https://www.canva.com/">
       <img src="https://img.shields.io/badge/Canva-2CAFD3?style=for-the-badge&logo=canva&logoColor=FFF" alt="Canva" />
@@ -102,7 +105,13 @@
       <img src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=794FF4" alt="Kotlin" />
     </a>&nbsp;
     <a href="https://www.swift.org/documentation/">
-      <img src="https://img.shields.io/badge/Swift-FFF?style=for-the-badge&logo=swift&logoColor=F05137" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Swift-FFF?style=for-the-badge&logo=swift&logoColor=F05137" alt="Swift" />
+    </a>&nbsp;
+    <a href="https://www.notion.so/fr-fr">
+      <img src="https://img.shields.io/badge/Notion-FFF?style=for-the-badge&logo=notion&logoColor=000" alt="Notion" />
+    </a>&nbsp;
+    <a href="https://about.gitlab.com/fr-fr/">
+      <img src="https://img.shields.io/badge/GitLab-FFF?style=for-the-badge&logo=gitlab&logoColor=FCA326" alt="GitLab" />
     </a>&nbsp;
   </div>
   <h2>My Stats</h2>
