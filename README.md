@@ -27,9 +27,6 @@
     <a href="https://www.mysql.com/">
       <img src="https://img.shields.io/badge/MySQL-01758F?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL" />
     </a>&nbsp;
-    <a href="https://github.com/archi974?tab=repositories">
-      <img src="https://img.shields.io/badge/Github-222?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-    </a>
     <a href="https://www.mongodb.com/docs/">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </a>&nbsp;
